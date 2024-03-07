@@ -1,7 +1,8 @@
 # sql-challenge
 Bootcamp: UPENN-VIRT-DATA-PT-06-2023-U-LOLC-MTTH Module 9 Challenge: SQL Challenge
 
-#Description
+# Description
+
 This database includes simulated data from Pewlett Hackard (a fictional company) describing employees during the 1980s and 1990s. The base data consists of six CSV files that have been uploaded to a database as represented by the following diagram,
 
 ![image](https://github.com/michaelpointek/sql-challenge/assets/153694943/eaf59864-5141-475c-bffe-279cd07a1932)
